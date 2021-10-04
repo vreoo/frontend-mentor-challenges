@@ -38,9 +38,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/vanilla-html-and-css-whithout-using-any-external-library-or-framework-v-V8Cvm0e)
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://vreoo.github.io/frontend-mentor-challenges/order-summary-component-main/index.html)
 
 ## My-process
 

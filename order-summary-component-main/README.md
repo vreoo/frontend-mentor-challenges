@@ -4,23 +4,23 @@ This is a solution to the [Order summary card challenge on Frontend M
 
 ## Table of contents
 
-- [Overview](##overview)
+<!-- - [Overview](#overview) -->
 
-  - [The challenge](###The-challenge)
+<!--   - [The challenge](#The-challenge) -->
 
-  - [Screenshot](###Screenshot)
+<!--   - [Screenshot](#Screenshot) -->
 
-  - [Links](###links)
+<!--   - [Links](#Links) -->
 
-- [My process](##My-process)
+<!-- - [My process](#My-process) -->
 
-  - [Built with](###built-with)
+<!--   - [Built with](#built-with) -->
 
-  - [What I learned](###what-i-learned)
+<!--   - [What I learned](#what-i-learned) -->
 
-  - [Useful resources](###useful-resources)
+<!--   - [Useful resources](#useful-resources) -->
 
-- [Author](##author)
+<!-- - [Author](#author) -->
 
 ## Overview
 
@@ -32,9 +32,9 @@ Users should be able to:
 
 ### Screenshot
 
-![[]](D:\frontend-challenges\order-summary-component-main\screenShots\screen1.png)
+![[screenshot]](./screenShots/screen1.png)
 
-![[]](D:\frontend-challenges\order-summary-component-main\screenShots\screen2.gif)
+![[gif]](./screenShots/screen2.gif)
 
 ### Links
 
@@ -125,11 +125,11 @@ I learned how to use div's classes to modify a part of the webpage, and learned 
 
 - [How to add pressed effect on a button](https://www.geeksforgeeks.org/how-to-add-a-pressed-effect-on-button-click-in-css/) - This helped me for adding a pressed effect to the buttons i have. I really liked this pattern and will use it going forward.
 
-![[]](D:\frontend-challenges\order-summary-component-main\screenShots\screen3.gif)
+![[]](./screenShots/screen3.gif)
 
 - [How to spin a Logo / Icon in css](https://stackoverflow.com/questions/27874302/how-to-spin-the-logo-360-degrees-using-css#27874531) - This is an amazing article which helped me creating a spinning icon when i hover over it. I'd recommend it to anyone still learning this concept.
 
-![[]](D:\frontend-challenges\order-summary-component-main\screenShots\screen4.gif)
+![[]](./screenShots/screen4.gif)
 
 ## Author
 

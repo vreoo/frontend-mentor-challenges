@@ -1,0 +1,82 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  /* box-sizing: border-box; */
+}
+
+html {
+  font-family: "Red Hat Display", sans-serif;
+  font-size: 16px;
+  overflow-x: hidden;
+}
+
+body {
+  background: url(./order-summary-component-main/images/pattern-background-desktop.svg)
+    no-repeat center/cover;
+}
+
+head {
+  text-align: center;
+}
+main h1 {
+  text-align: center;
+  color: hsl(223, 47%, 23%);
+  font-weight: 900;
+}
+article {
+  text-align: center;
+  color: hsl(224, 23%, 55%);
+  font-weight: 900;
+}
+
+.container {
+  width: 100%;
+  min-height: 88vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.card img {
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+}
+
+.border {
+  border-radius: 1rem !important;
+}
+
+.card {
+  box-shadow: 3px 3px 18px -5px rgba(0, 0, 0, 0.74);
+}
+
+.card-body h5 {
+  color: hsl(223, 47%, 23%);
+  font-weight: 900;
+}
+
+.card-body p {
+  color: hsl(224, 23%, 55%);
+  font-weight: 600;
+}
+
+.list-group li {
+  color: hsl(223, 47%, 23%);
+  font-weight: 700;
+}
+
+footer {
+  font-size: 11px;
+  text-align: center;
+  font-weight: 700;
+  /* padding-bottom: 3rem; */
+  padding-bottom: 4rem;
+}
+
+footer a {
+  color: hsl(228, 45%, 44%);
+  font-weight: 500;
+}
